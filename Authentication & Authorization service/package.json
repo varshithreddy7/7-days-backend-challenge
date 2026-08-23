@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Varshith",
+  "license": "ISC",
+  "description": "Authentication & Authorization service",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
